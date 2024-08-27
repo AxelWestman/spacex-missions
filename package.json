@@ -1,6 +1,7 @@
 {
   "name": "spacex-missions",
   "private": true,
+  "homepage": "https://AxelWestman.github.io/spacex-missions/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
